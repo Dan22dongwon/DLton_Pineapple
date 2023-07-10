@@ -6,10 +6,10 @@
 - 목표: 경량화된 이미지 분류 모델 구축
 - 팀장 : 박동원
 - 팀원 : 김태원, 백기웅, 정선종
-- 역할 : 박동원 - MobileNet API 자료 수집, Test MobileNet 구현, EDA
-         김태원 - MobileNet V3 small 모델 개선, 모델 개선책 연구
-         정선종 - 발표자료, 자료정리, 발표준비
-         백기웅 - MobuleNet V3 lage 모델 개선, Preprocessing, Afterprocessing
+- 역할 : 박동원 - MobileNet API 자료 수집, Test MobileNet 구현, EDA  </br>
+         김태원 - MobileNet V3 small 모델 개선, 모델 개선책 연구</br>
+         정선종 - 발표자료, 자료정리, 발표준비</br>
+         백기웅 - MobuleNet V3 lage 모델 개선, Preprocessing, Afterprocessing</br> 
   
 ## DLton 1Day <일정표 만들기>
 
